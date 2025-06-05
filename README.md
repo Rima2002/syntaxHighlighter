@@ -7,7 +7,7 @@
 
 [Article](URL)
 
-[!Video Tanıtım](https://www.youtube.com/watch?v=VIDEO_ID)
+[Video Tanıtım](https://www.youtube.com/watch?v=VIDEO_ID)
 
 ---
 
