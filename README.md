@@ -51,7 +51,7 @@ Gramer, manuel analiz kolaylığı sağlamak üzere tasarlanmış olup temel sö
 
 ### Genel Yaklaşım:
 
-- **Yöntem**: Üstten-Aşağı (Top-Down) Özyinelemeli (Recursive Descent) analiz  
+- **Yöntem**: Üstten-Aşağı (Top-Down) Özyinelemeli (Recursive Descent) analiz
 - **Avantaj**: Parser üreticisine ihtiyaç duymaz
 
 ### Gramer Taslağı:
@@ -75,6 +75,7 @@ Expression  -> LogicalOr
 
 ### Kullanılan Yaklaşım:
 
+- **Uygulama**: `tokenizer.py` dosyasında  
 - Durum diyagramı ve programatik kurallar temelli lexer  
 - Dış kütüphane kullanılmamıştır
 
@@ -147,6 +148,7 @@ Expression  -> LogicalOr
 
 ## Grafik Arayüz (GUI) Uygulaması
 
+- **Uygulama**: `gui.py` dosyasında  
 - Geliştirme: `tkinter` kullanılarak  
 - Özellikler:
   - Kod yazma alanı
