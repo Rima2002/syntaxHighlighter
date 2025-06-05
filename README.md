@@ -199,3 +199,17 @@ Testler aşağıdaki dosyalarda yer alır:
 ## Sonuç
 
 Bu proje, hiçbir harici kütüphane kullanılmadan geliştirilen, gerçek zamanlı sözdizimi vurgulama uygulamasıdır. Temel ayrıştırma ve vurgulama prensipleri başarıyla uygulanmıştır.
+
+
+## Kaynakça
+- Aho, A. V., Sethi, R., & Ullman, J. D. (2006). Compilers: Principles, Techniques, and Tools (2. baskı). Pearson Education.
+> Projede kullandığım sözcüksel analiz ve sözdizimsel çözümleme yöntemlerinin temelini bu kitap oluşturdu. Recursive descent parser mantığı da burada açıklanıyor.
+
+- Python Software Foundation. (2024). Python 3.11 Resmi Belgeleri. https://docs.python.org/3.11/
+> Python diline ait sözdizimi, Tkinter arayüz bileşenleri ve genel kullanım detaylarını bu dokümantasyondan takip ettim.
+
+- TkDocs. (2024). Tkinter Kullanım Kılavuzu. https://tkdocs.com/tutorial/
+> Arayüz geliştirirken Text widget'ı, olay dinleyicileri ve görsel düzen hakkında bilgi almak için bu kaynaktan faydalandım.
+
+- Grune, D., & arkadaşları. (2012). Modern Compiler Design. Springer.
+> Gramer tanımı, blok yapılar ve dil çözümleme teknikleri konusunda detaylı bilgi veren, başvurulacak kaynaklardan biri.
