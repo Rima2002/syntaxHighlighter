@@ -22,7 +22,7 @@
 
 ## Dil ve Gramer Seçimi
 
-Projede basitleştirilmiş bir programlama dili tasarlanmıştır. Desteklenen yapılar:
+Projede basitleştirilmiş bir programlama dili tasarladım. Desteklenen yapılar:
 
 - Atama ifadeleri  
 - Aritmetik ifadeler  
