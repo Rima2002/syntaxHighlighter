@@ -6,6 +6,7 @@
 Öğrenci Numarası: 21360859216
 
 [Article](URL)
+
 [![Video Tanıtım](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 ---
