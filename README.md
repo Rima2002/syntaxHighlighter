@@ -5,9 +5,9 @@
 **Rima Farah Eleuch**  
 Öğrenci Numarası: 21360859216
 
-[Article](URL)
+[Article](https://www.linkedin.com/feed/update/urn:li:activity:7336762323581255682/)
 
-[Video Tanıtım](https://www.youtube.com/watch?v=VIDEO_ID)
+[Video: Proje Tanıtımı](https://www.youtube.com/watch?v=FuZdU7YXM8Y)
 
 ---
 
